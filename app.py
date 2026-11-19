@@ -525,4 +525,4 @@ with tab_mc:
             )
     else:
         st.info("Presiona el botón para ejecutar la simulación de Montecarlo.")
-```
+
